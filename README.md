@@ -36,5 +36,5 @@ I have 6+ years of professional full-stack development experience in architectin
 
 **LinkedIn** - https://www.linkedin.com/in/bharatdwarkani/  
 **Medium** - https://medium.com/@bharatdwarkani  
-**Person Blog** - https://sharetechlinks.com/  
+**Personal Blog** - https://sharetechlinks.com/  
 **Dev.to** - https://dev.to/bharatdwarkani  
