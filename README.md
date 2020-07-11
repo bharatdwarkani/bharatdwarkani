@@ -8,6 +8,7 @@ I have 6+ years of professional full-stack development experience in architectin
 - 🌱 **I’m currently learning** how to architect a Cloud Native Product using Clean Architecture
 
 **My Tech Skills** 
+- Web Development
 - C#
 - ASP.NET Core
 - MS SQL
@@ -17,6 +18,7 @@ I have 6+ years of professional full-stack development experience in architectin
 - HTML
 - JavaScript
 - CSS
+- Cloud
 - Microsoft Azure
 - Google Cloud Platform
 - Kubernetes
