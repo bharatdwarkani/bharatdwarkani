@@ -7,7 +7,7 @@ I have 6+ years of professional full-stack development experience in architectin
 - 🔭 **I’m currently** engineering & Architecting SaaS Cloud Native Product using several technologies ASP.NET Core, Angular , Azure, GCP, Postgres, Redis, Kubernetes.
 - 🌱 **I’m currently learning** how to architect a Cloud Native Product using Clean Architecture
 
-**Tech Skills** 
+**My Tech Skills** 
 - C#
 - ASP.NET Core
 - MS SQL
