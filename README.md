@@ -26,6 +26,12 @@ I have 6+ years of professional full-stack development experience in architectin
 - Git
 - Agile Development
 
+**My Top GitHub Repositories**
+ - [awesome-dotnet-core-applications](https://github.com/bharatdwarkani/awesome-dotnet-core-applications)  
+ - [docsify-dotnet-core](https://github.com/bharatdwarkani/docsify-dotnet-core)
+ - [taskplanner](https://github.com/syncfusion/taskplanner)
+ - [awesome-dotnet-core-static-analyzers](https://github.com/bharatdwarkani/awesome-dotnet-core-static-analyzers)
+
 **Profiles**
 
 **LinkedIn** - https://www.linkedin.com/in/bharatdwarkani/  
