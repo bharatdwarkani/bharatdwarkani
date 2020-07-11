@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm **Bharat Dwarkani** - Technical Product Manager, Product Owner Scrum Master, Full Stack Software Engineer working at Syncfusion, Inc. from Chennai, India
+I'm **Bharat Dwarkani** - Technical Product Manager, Product Owner Scrum Master, Tech Enthusiast, Full Stack Software Engineer working at Syncfusion, Inc. from Chennai, India
 
 I have 6+ years of professional full-stack development experience in architecting, designing & development of web and desktop applications across various domains using .NET and Web technologies.
 
