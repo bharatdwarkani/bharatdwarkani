@@ -4,7 +4,7 @@ I'm **Bharat Dwarkani** - Technical Product Manager, Product Owner Scrum Master,
 
 I have 6+ years of professional full-stack development experience in architecting, designing & development of web and desktop applications across various domains using .NET and Web technologies.
 
-- 🔭 **I’m currently** engineering & Architecting SaaS Cloud Native Product using several technologies ASP.NET Core, Angular , Azure, GCP, Postgres, Redis, Kubernetes.
+- 🔭 **I’m currently** engineering & architecting SaaS Cloud Native product using several technologies ASP.NET Core, Angular , Azure, GCP, Postgres, Redis, Kubernetes.
 
 **My Tech Skills** 
 - Web Development
