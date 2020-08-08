@@ -7,7 +7,7 @@ I have 6+ years of professional full-stack development experience in architectin
 - 🔭 **I’m currently** engineering & architecting SaaS Cloud Native product using several technologies ASP.NET Core, Angular , Azure, GCP, Postgres, Redis, Kubernetes.
 
 **My Tech Skills** 
-- Web Development
+- Web Development, 
 - C#
 - ASP.NET Core
 - MS SQL
@@ -38,3 +38,6 @@ I have 6+ years of professional full-stack development experience in architectin
 **Medium** - https://medium.com/@bharatdwarkani  
 **Personal Blog** - https://sharetechlinks.com/  
 **Dev.to** - https://dev.to/bharatdwarkani  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=bharatdwarkani&show_icons=true)  
+![Profile views](https://gpvc.arturio.dev/bharatdwarkani)  
